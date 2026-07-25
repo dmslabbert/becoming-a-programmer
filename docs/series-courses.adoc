@@ -1,6 +1,7 @@
 == Fundamentals of Software Engineering
 
 === The Courses
+* FSE 00: Becoming a Programmer - Getting Started
 * FSE 01: Understanding Business Systems Architecture
 * FSE 02: Database Design for Business Systems
 * FSE 03P: Building PostgreSQL Databases for Business Systems
