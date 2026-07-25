@@ -1,6 +1,6 @@
-= Fundamentals of Software Engineering
+== Fundamentals of Software Engineering
 
-== The Courses
+=== The Courses
 * FSE 01: Understanding Business Systems Architecture
 * FSE 02: Database Design for Business Systems
 * FSE 03P: Building PostgreSQL Databases for Business Systems
@@ -26,5 +26,5 @@
 * FSE 13C: Server-Side Rendering for Business Systems (C#)
 * FSE 13R: Client-Side Rendering for Business Systems (React)
 
-== Roadmap
-image::./assets/images/roadmap-light.png[width=600]
+=== Roadmap
+image::./assets/images/roadmap-horizontal-dark.png[width=600]

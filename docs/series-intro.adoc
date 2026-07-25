@@ -1,4 +1,4 @@
-= The Fundamentals of Software Engineering Series
+== The Fundamentals of Software Engineering Series
 
 This isn't just another programming course.
 
@@ -8,7 +8,7 @@ This series is different.
 
 I'm going to teach you how to design and build *complete business systems* — the kind used in real companies — by understanding how each part fits into a larger architecture.
 
----
+'''
 
 Let's take a look at the roadmap.
 
@@ -20,13 +20,13 @@ At the bottom, we start with the *Database Layer*.
 
 This is where your system's data lives. You'll learn how to design databases properly and then build them using technologies like PostgreSQL, MySQL, SQL Server, or SQLite. This is your foundation — everything else depends on it.
 
----
+'''
 
 Above that is the *Data Access Layer*.
 
 This is where your application starts interacting with the database. You'll learn how to connect your backend code to your data, retrieve it, and manipulate it safely and efficiently.
 
----
+'''
 
 Next is the *Business Logic Layer*.
 
@@ -39,7 +39,7 @@ At this point, you'll choose your path:
 
 Both tracks follow the same architecture, so you're learning concepts — not just syntax.
 
----
+'''
 
 Above that is the *Application Layer*.
 
@@ -49,20 +49,20 @@ You'll build REST APIs — the standard way modern systems communicate — and t
 
 This is where your application becomes part of a larger ecosystem.
 
----
+'''
 
 At the top, we have the *User Interface Layer*.
 
 This is what users actually see and interact with.
 
-You'll first learn how to design effective business system interfaces, and then implement them using either:
+You'll first learn how to design effective business system interfaces and then implement them using either:
 
 * server-side rendering with Java or C#
 * or client-side rendering with React
 
 This is where everything comes together into a usable system.
 
----
+'''
 
 Running alongside all of this are what we call *cross-cutting concerns*.
 
@@ -75,7 +75,7 @@ These include:
 
 These aren't separate topics — they are essential practices applied across every layer of the system.
 
----
+'''
 
 By the end of this series, you won't just know how to write code.
 
@@ -83,7 +83,7 @@ You'll understand how to build a complete, layered business system — from the 
 
 And more importantly, you'll understand *why* it's built that way.
 
----
+'''
 
 So if you're ready to move beyond isolated tutorials and start thinking like a software engineer…
 

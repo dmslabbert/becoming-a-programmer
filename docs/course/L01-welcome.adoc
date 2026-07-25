@@ -1,6 +1,6 @@
-= Welcome
+== Welcome
 
-== The World of IT
+=== The World of IT
 We all know someone who works in IT. But what exactly does IT stand for?
 
 IT is short for Information Technology, and we will cover Information Technology in more detail later in this course.
@@ -39,7 +39,7 @@ image::../assets/images/devsecops.svg[]
 
 ITC
 
-== The Series
+=== The Series
 This course is the first in a series of courses. I call this the *Fundamentals of Software Engineering* series.
 
 The series focuses 100% on the Dev side of IT.
@@ -51,7 +51,7 @@ Business Systems deal with supporting businesses with their day-to-day activitie
 You find these types of systems anywhere you will find a business.
 Examples are Banking Systems, Point of Sale Systems, Insurance Systems, Hospital Management Systems, Pharmacy Management Systems, eCommerce Systems, and Social Media Systems to name a few.
 
-== This Course
+=== This Course
 This course is a theory-only course, and we will do no coding here.
 
 There is a good reason for this.
@@ -64,7 +64,7 @@ You will also see that this is not your typical answer you get when typing this 
 
 And I answer it in such a way that even if you decide to never take any of my followup courses, you will still have a proper roadmap to continue on.
 
-== The Foundation
+=== The Foundation
 It is important that you get a good grasp of this course before you continue with the follow-up courses.
 Every other course in the *Fundamentals of Software Engineering* series fits into a specific space explained in this course.
 

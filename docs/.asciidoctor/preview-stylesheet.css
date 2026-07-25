@@ -1,0 +1,12 @@
+body {
+    font-family: "Consolas", serif;
+    font-size: 17px;
+}
+
+h1, h2, h3, h4 {
+    font-family: "Consolas", sans-serif;
+}
+
+code {
+    font-family: "Fira Code", "Fira Mono", "Consolas", "Courier New", monospace;
+}
